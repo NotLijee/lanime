@@ -1,0 +1,14 @@
+{
+    "name": "lanime",
+    "version": "1.0.0",
+    "description": "The anime-themed programming language",
+    "type": "module",
+    "author": "Elijah Senior",
+    "scripts": {
+      "test": "jest --coverage"
+    },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
