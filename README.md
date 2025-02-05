@@ -39,13 +39,13 @@ This is the repository for my programming language! This is my logo ->
 ```python
 kamehameha fizzbuzz(n: chakra):
     rasengan i in range(1, n + 1):
-        zoro i % 3 == 0 and i % 5 == 0:
+        sanji i % 3 == 0 and i % 5 == 0:
             dattebayo("LuffyBuzz")
-        zoro i % 3 == 0:
+        sanji i % 3 == 0:
             dattebayo("Luffy")
-        zoro i % 5 == 0:
+        sanji i % 5 == 0:
             dattebayo("Buzz")
-        else:
+        sanji:
             dattebayo(i)
 
 fizzbuzz(15)
