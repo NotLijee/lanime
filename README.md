@@ -6,16 +6,16 @@ This is the repository for my programming language! This is my logo ->
 
 # Features  
 1. Character Inspired Syntax
-luffy – Declares a variable with boundless potential (let equivalent).
-kamehameha – Defines a function with explosive power (def equivalent).
-rasengan – Executes a loop with dynamic energy (for equivalent).
-zoro – Defines a conditional block with sharp logic (if equivalent).
-gintoki – A wildcard statement for unexpected humor (used for debugging).
+- luffy – Declares a variable with boundless potential (let equivalent).
+- kamehameha – Defines a function with explosive power (def equivalent).
+- rasengan – Executes a loop with dynamic energy (for equivalent).
+- sanji – Defines a conditional block with sharp logic (if equivalent).
+- gintama – A wildcard statement for unexpected humor (used for debugging).
 
 2. Type System & Data Structures
-devilFruit <String> – A string type.
-chakra <int> – An integer.
-ki <float> – A floating-point number.
+- devilFruit <String> – A string type.
+- chakra <int> – An integer.
+- ki <float> – A floating-point number.
 squad [List] – A list type.
 radar <Map> – A dictionary type.
 
