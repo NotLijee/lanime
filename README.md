@@ -16,22 +16,22 @@ This is the repository for my programming language! This is my logo ->
 - devilFruit <String> – A string type.
 - chakra <int> – An integer.
 - ki <float> – A floating-point number.
-squad [List] – A list type.
-radar <Map> – A dictionary type.
+- squad [List] – A list type.
+- radar <Map> – A dictionary type.
 
 4. Control Flow That Feels Like a Battle
-gear_second { ... } – Boosts loop performance (optimized loop execution).
-ultra_instinct { ... } – Executes a function with maximum efficiency.
-shadow_clone { ... } – Creates parallel threads for multitasking.
+- gear_second { ... } – Boosts loop performance (optimized loop execution).
+- ultra_instinct { ... } – Executes a function with maximum efficiency.
+- shadow_clone { ... } – Creates parallel threads for multitasking.
 
 6. Error Handling: No Pain, No Gain
-itachi – Handles exceptions with deep sacrifice (try equivalent).
-genjutsu – Catches errors before they break reality (catch equivalent).
+- itachi – Handles exceptions with deep sacrifice (try equivalent).
+- genjutsu – Catches errors before they break reality (catch equivalent).
 
 8. Built-in Anime References
-senzu_beans() – Restores all memory leaks and performance issues.
-dattebayo() – Adds unnecessary print statements for dramatic effect.
+- senzu_beans() – Restores all memory leaks and performance issues.
+- dattebayo() – Adds unnecessary print statements for dramatic effect.
 
 10. Special Easter Eggs
-If saitama() is called, the program finishes in one punch (instantly).
+- If saitama() is called, the program finishes in one punch (instantly).
 
