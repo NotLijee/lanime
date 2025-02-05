@@ -37,6 +37,7 @@ This is the repository for my programming language! This is my logo ->
 
 # Example
 ```python
+#Example 1
 kamehameha fizzbuzz(n: chakra):
     rasengan i in range(1, n + 1):
         sanji i % 3 == 0 and i % 5 == 0:
@@ -49,4 +50,15 @@ kamehameha fizzbuzz(n: chakra):
             dattebayo(i)
 
 fizzbuzz(15)
+
+#Example 2
+kamehameha find_strongest(squad: list) -> chakra:
+    strongest = nakama[0]  # Start with the first warrior
+    rasengan warrior in nakama:
+        sanji warrior > strongest:
+            strongest = warrior  # Update strongest warrior
+    return strongest
+
+fighters = [900, 1500, 3200, 5000, 10000, 5300, 4200]
+dattebayo("The strongest warrior has a power level of:", find_strongest(fighters))
 
