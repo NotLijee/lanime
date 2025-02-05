@@ -36,6 +36,7 @@ This is the repository for my programming language! This is my logo ->
 - If saitama() is called, the program finishes in one punch (instantly).
 
 # Example
+```python
 kamehameha fizzbuzz(n: chakra):
     rasengan i in range(1, n + 1):
         zoro i % 3 == 0 and i % 5 == 0:
