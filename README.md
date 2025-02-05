@@ -35,3 +35,17 @@ This is the repository for my programming language! This is my logo ->
 10. Special Easter Eggs
 - If saitama() is called, the program finishes in one punch (instantly).
 
+# Example
+kamehameha fizzbuzz(n: chakra):
+    rasengan i in range(1, n + 1):
+        zoro i % 3 == 0 and i % 5 == 0:
+            dattebayo("LuffyBuzz")
+        zoro i % 3 == 0:
+            dattebayo("Luffy")
+        zoro i % 5 == 0:
+            dattebayo("Buzz")
+        else:
+            dattebayo(i)
+
+fizzbuzz(15)
+
