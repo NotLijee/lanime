@@ -3,6 +3,9 @@
 This is the repository for my programming language! This is my logo ->
 [LanimeLogo](https://github.com/user-attachments/assets/8ca2cab1-8ded-483a-bba4-43f742d2fae5)
 
+# Story 
+Lanime was born from a love of anime and a desire to make programming as exciting as an epic battle between rivals. Inspired by the legendary worlds of One Piece, Dragon Ball Z, Naruto, and Gintama, this language embodies the spirit of adventure, relentless training, and the power of friendship. Just like a shōnen protagonist, Lanime grows stronger with every challenge, making coding feel less like a chore and more like an anime.
+
 
 # Features  
 1. Character Inspired Syntax
