@@ -5,10 +5,9 @@
     "type": "module",
     "author": "Elijah Senior",
     "scripts": {
-      "test": "jest --coverage"
+        "test": "jest --coverage"
     },
     "devDependencies": {
-      "jest": "^29.0.0"
+        "jest": "^29.7.0"
     }
-  }
-  
+}
